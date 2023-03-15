@@ -6,6 +6,8 @@ def add(x, y):
 #       neg() should return the negation of the given number, and sqrt() should
 #       return the square root of the given number. 
 
+def sub():
+    asdf
 def neg(x):
     ... # fill here
 
